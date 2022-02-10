@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there!
+
+- 🔭 I’m currently studying at Gadjah Mada University
+- 📫 How to reach me: https://www.linkedin.com/in/mahatma-kawa-94a691224/
 
 <!--
 **bakwankawa/bakwankawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
