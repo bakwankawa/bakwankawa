@@ -1,6 +1,6 @@
 # Hi there, I'm Kawa👋  
 
-- 🌱 I’m currently studying at Gadjah Mada University 🤣  
+- 🌱 I’m currently studying at Gadjah Mada University
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/mahatma-kawa-94a691224/">
