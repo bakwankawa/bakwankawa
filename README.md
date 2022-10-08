@@ -7,11 +7,10 @@ My progress now in every field that i interest are:
   - Implement fine tuning to classify, detect, and predict something from popular datasets including time series, images, and test data.
   - Implement a pipeline to automate preprocessing, training, and predictig a model.
 2. Fullstack Engineer
-    - Creating a basic 3 that contains API, service, and data access layer using SpringBoot
-    - 
+  - Creating a basic 3 that contains API, service, and data access layer using SpringBoot
+  - 
 3. Data analysts
 
-The progress of each
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/mahatma-kawa-94a691224/">
